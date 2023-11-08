@@ -1,0 +1,27 @@
+.cta-button {
+  text-align: center;
+  padding: 20px;
+  background-color: #007bff;
+  color: #fff;
+  border-radius: 5px;
+}
+
+button {
+  background-color: #fff;
+  color: #007bff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: #0056b3;
+  color: #fff;
+}
+
+p {
+  margin-top: 10px;
+  font-size: 16px;
+}
